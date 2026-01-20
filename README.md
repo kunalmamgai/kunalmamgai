@@ -4,7 +4,7 @@
 
 ```
 Full-Stack Web Developer | CS Student | Building the Future of Web Apps
-Rampur, Uttar Pradesh, India
+Uttarakhand, India
 ```
 
 Passionate about crafting interactive web experiences with **HTML, CSS, JavaScript, and React**. Currently diving into backend with **Python** and exploring full-stack integration. Love solving coding challenges, anime, and turning ideas into deployable projects.
