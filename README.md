@@ -43,12 +43,31 @@ Passionate about crafting interactive web experiences with **React, Vite, and Ta
 - Full-stack deployment (AWS, Vercel)
 - Agentic AI systems and LLM-powered products
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FINNOVIT-HACKATHON&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/INNOVIT-HACKATHON)[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FHybrid-Renewable-VPP&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/Hybrid-Renewable-VPP)[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FRazorpay-Buildathon&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/Razorpay-Buildathon)[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FPersonal_Portfolio&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/Personal_Portfolio)
 
 ## 📫 Let's Connect
 
 - 📧 Email: kunalmamgai@gmail.com
 - 💼 LinkedIn: [kunal-mamgai](https://www.linkedin.com/in/kunal-mamgai-37620638b/)
+
+  <!-- ================== GITHUB STATS ================== -->
+
+<div align="center">
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
+
+
+<br/><br/>
+
+<div style="position: relative; width: 100%;">
+  <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=kunalmamgai&theme=ocean_radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="kunalmamgai's GitHub Insights" />
+</p>
+</div>
+<br>
+
+  
 
 **Open to collaborations on web projects, hackathons, or coding challenges!** ⭐ Star my repos if you find them helpful.
 
