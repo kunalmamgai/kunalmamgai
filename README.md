@@ -8,7 +8,9 @@ Uttarakhand, India
 Passionate about crafting interactive web experiences with **React, Vite, and Tailwind CSS**, backed by **Python/FastAPI**, with a growing interest in **Three.js** for 3D visualization and **React Native/Expo** for mobile. I spend a lot of my time building for hackathons like Smart India Hackathon — turning problem statements into deployable, working products. Also into anime, guitar, and solving coding challenges.
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)<picture>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
