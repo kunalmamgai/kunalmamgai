@@ -39,7 +39,7 @@ Passionate about crafting interactive web experiences with **React, Vite, and Ta
 - Full-stack deployment (AWS, Vercel)
 - Agentic AI systems and LLM-powered products
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FINNOVIT-HACKATHON&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/INNOVIT-HACKATHON)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FINNOVIT-HACKATHON&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/INNOVIT-HACKATHON)[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunalmamgai&repo=kunalmamgai%2FHybrid-Renewable-VPP&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/kunalmamgai/Hybrid-Renewable-VPP)
 
 ## 📫 Let's Connect
 
