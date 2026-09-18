@@ -8,7 +8,7 @@ Uttarakhand, India
 Passionate about crafting interactive web experiences with **React, Vite, and Tailwind CSS**, backed by **Python/FastAPI**, with a growing interest in **Three.js** for 3D visualization and **React Native/Expo** for mobile. I spend a lot of my time building for hackathons like Smart India Hackathon — turning problem statements into deployable, working products. Also into anime, guitar, and solving coding challenges.
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -30,7 +30,7 @@ Passionate about crafting interactive web experiences with **React, Vite, and Ta
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kunalmamgai&rank_icon=github&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=kunalmamgai&rank_icon=github&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kunalmamgai&rank_icon=github&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=kunalmamgai&rank_icon=github&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)
 
 ## 🛠️ Tech Stack
 
