@@ -16,8 +16,6 @@ Passionate about crafting interactive web experiences with **React, Vite, and Ta
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
----
-
 ## 🚀 What I'm Building
 
 - **☀️ [SURYA](https://github.com/kunalmamgai/Hybrid-Renewable-VPP)** — a Hybrid Renewable Virtual Power Plant platform for Rajasthan's DTE, with 8 AI decision modules, a Three.js 3D digital twin, and a FastAPI + React stack.
