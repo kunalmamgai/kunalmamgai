@@ -1,3 +1,6 @@
+<!--Banner-->
+![kunalmamgai Banner Image](./banner.png)
+
 # Hi there, I'm Kunal 👋
 
 ```
