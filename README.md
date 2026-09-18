@@ -28,14 +28,6 @@ Passionate about crafting interactive web experiences with **React, Vite, and Ta
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kunalmamgai&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=kunalmamgai&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&theme=dark_github)                  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kunalmamgai&langs_count=4&theme=dark_github)
-
-## 🛠️ Tech Stack
-
-| Frontend | Backend | Mobile | Tools & Others |
-|---|---|---|---|
-| HTML5, CSS3, JavaScript (ES6+), React, Vite, Tailwind CSS, Three.js | Python, FastAPI, Node.js | React Native, Expo | VS Code, Git/GitHub, Cursor |
-
 ## 🌱 Currently Learning
 
 - Advanced React (hooks, state management)
