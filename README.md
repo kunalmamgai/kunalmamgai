@@ -23,8 +23,7 @@ Passionate about crafting interactive web experiences with **React, Vite, and Ta
 - **🛡️ VIGIL** — a passive CAPTCHA/bot-detection system built for UIDAI under MeitY.
 - **🏟️ PlayHack** — a concurrency-safe sports facility booking system for an IIT Guwahati SDE hackathon.
 - **💳 Agentic Commerce Agent** — an upsell/campaign orchestration agent for a Razorpay hackathon, built around an explainable "Brain/Cage/Ledger" model for safe money-moving actions.
-- **🔁 Loop** — an ambient, on-device verbal commitment tracker for mobile (React Native/Expo).
-- **🗣️ EnglishAI** *(in progress)* — a personalized AI English tutor that adapts to my own recurring mistakes through spoken practice.
+
 
 ---
 
